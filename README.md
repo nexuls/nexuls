@@ -30,7 +30,7 @@ When I'm not coding, I'm probably exploring new tech, hustling side-projects, or
 
 - 🌍 Based in 🇮🇳 India.
 - 💼 I dare to call myself a Full-Stack Developer.
-- ⚙️ I use daily: `.js | .ts`, `.jsx | .tsx`, `.py`, `.c | .cpp`.
+- ⚙️ I use daily: `.js | .ts`, `.jsx | .tsx`, `.py`, `.c | .cpp`, `.go`, `.rs`.
 - 🌱 Learning about 🤖 AI/ML (Theories as well unfortunately).
 
 ---
